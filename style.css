@@ -37,7 +37,7 @@ body.dark-mode .subject-card {
   justify-content: space-between;
   align-items: center;
   padding: 1rem 2rem;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(62, 54, 54, 0.4);
   backdrop-filter: var(--card-blur);
   position: sticky;
   top: 0;
